@@ -1,8 +1,15 @@
 Advent of Code 2017
+https://adventofcode.com/2017/
+
 Solutions by Kai Acredolo
-Each day's problem is written at the top of the file, with the solution below it
 Done in C++
 
+Each day/challenge has it's own Header file
+The challenge is written at the top of the file along with my rank/time and personal thoughts of that day's challenge
+
+
+
+My stats for the entire month below
 
 --------Part 1--------        --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
